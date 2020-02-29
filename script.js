@@ -27,7 +27,7 @@ window.addEventListener("load", event => {
          color: "#011627"
       },
       {
-         img: "https://www.berkaymazman.com.tr/Muziklen/beatcoin.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/beatcoin.jpg",
          artistName: "Ceza",
          songName: "Beatcoin",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
@@ -38,21 +38,8 @@ window.addEventListener("load", event => {
    // Music Groups
    const groups = [
       {
-         title: "Tüm Şarkılar",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img06.jpg"
-      },
-      {
-         title: "Sanatçılar",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img07.jpg"
-      },
-      {
-         title: "Oynatma Listeleri",
-         img:
-         "https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
-      },
-      {
-         title: "Favoriler",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img10.jpg"
+         title: "Rap",
+         img: "https://www.berkaymazman.com.tr/Muziklen/playlist-images/rap.png"
       }
    ];
 
