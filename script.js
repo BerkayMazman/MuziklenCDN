@@ -27,7 +27,7 @@ window.addEventListener("load", event => {
          color: "#011627"
       },
       {
-         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/beatcoin.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/beatcoin.jpg",
          artistName: "Ceza",
          songName: "Beatcoin",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
@@ -66,17 +66,17 @@ window.addEventListener("load", event => {
       {
          title: "Rap",
          img:
-         "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/playlist-images/rap.png"
+         "https://www.berkaymazman.com.tr/Muziklen/playlist-images/rap.png"
       },
       {
          title: "Pop",
          img:
-         "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/playlist-images/pop.png"
+         "https://www.berkaymazman.com.tr/Muziklen/playlist-images/pop.png"
       },
       {
          title: "Her Yerden Şarkı",
          img:
-         "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/playlist-images/heryerdensarki.png"
+         "https://www.berkaymazman.com.tr/Muziklen/playlist-images/heryerdensarki.png"
       }
    ];
 
