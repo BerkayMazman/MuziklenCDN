@@ -20,17 +20,17 @@ window.addEventListener("load", event => {
    // Songs
    const songs = [
       {
-         img: "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/song-images/mekaninsahibi.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/mekaninsahibi.jpg",
          artistName: "Norm Ender",
          songName: "Mekanın Sahibi",
-         song: "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/songs/mekaninsahibi.mp3",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/mekaninsahibi.mp3",
          color: "#011627"
       },
       {
-         img: "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/song-images/beatcoin.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/beatcoin.jpg",
          artistName: "Ceza",
          songName: "Beatcoin",
-         song: "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/songs/beatcoin.mp3",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
          color: "#011627"
       }
    ];
@@ -61,7 +61,7 @@ window.addEventListener("load", event => {
       {
          title: "Az Bilinenler",
          img:
-         "https://raw.githubusercontent.com/BerkayMazman/Muziklen/master/playlist-images/azbilinenler.png"
+         "https://www.berkaymazman.com.tr/Muziklen/playlist-images/azbilinenler.png"
       },
       {
          title: "Rap",
