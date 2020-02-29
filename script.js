@@ -199,7 +199,7 @@ window.addEventListener("load", event => {
       slidesPerView: 1,
       spaceBetween: 20,
       speed: 600,
-      allowTouchMove: false,
+      allowTouchMove: true,
       effect: "coverflow",
 
       coverflowEffect: {
