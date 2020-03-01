@@ -52,12 +52,84 @@ window.addEventListener("load", event => {
       },  
 
 {
-         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/Yalan.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/yalan.jpg",
          artistName: "Aleyna Tilki",
          songName: "Yalan",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/yalan.mp3",
          color: "#011627"
-      }
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/kafa10.jpg",
+         artistName: "Anıl Piyancı & Ezhel",
+         songName: "Kafa 10",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/kafa10.mp3",
+         color: "#011627"
+
+      },  
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/lolo.jpg",
+         artistName: "Ezhel",
+         songName: "Lolo",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/lolo.mp3",
+         color: "#011627"
+
+      },  
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/muhur.jpg",
+         artistName: "Irmak Arıcı & Mustafa Ceceli",
+         songName: "Mühür",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/muhur.mp3",
+         color: "#011627"
+
+      },  
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/goal.jpg",
+         artistName: "Patron",
+         songName: "Goal",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/goal.mp3",
+         color: "#011627"
+
+      },  
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/tabitabi.jpg",
+         artistName: "Sinan Akçıl",
+         songName: "Tabi Tabi",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/tabitabi.mp3",
+         color: "#011627"
+
+      },  
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/nasilsinaskta.jpg",
+         artistName: "Aleyna Tilki",
+         songName: "Nasılsın Aşkta",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/nasilsinaskta.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/felaket.jpg",
+         artistName: "Ezhel",
+         songName: "Felaket",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/felaket.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/kaktus.jpg",
+         artistName: "Norm Ender",
+         songName: "Kaktüs",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/kaktus.mp3",
+         color: "#011627"
+
+      } 
    ];
 
    // Music Groups
