@@ -33,6 +33,7 @@ window.addEventListener("load", event => {
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
          color: "#011627"
       },
+
       {
          img: "https://www.berkaymazman.com.tr/Muziklen/song-images/benjamins3.jpg",
          artistName: "Rozz Kalliope & Ece Seçkin",
@@ -40,15 +41,24 @@ window.addEventListener("load", event => {
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/benjamins3.mp3",
          color: "#011627"
       },
-      {
+{
+
          img: "https://www.berkaymazman.com.tr/Muziklen/song-images/nebakiyondayidayi.jpg",
          artistName: "Keişan & Anıl Piyancı",
          songName: "Ne Bakıyon Dayı Dayı",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/nebakiyondayidayi.mp3",
          color: "#011627"
+
       },  
 
-         ];
+{
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/Yalan.jpg",
+         artistName: "Aleyna Tilki",
+         songName: "Yalan",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/yalan.mp3",
+         color: "#011627"
+      }
+   ];
 
    // Music Groups
    const groups = [
