@@ -41,7 +41,7 @@ window.addEventListener("load", event => {
          color: "#011627"
       },
 {
-         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/yalan.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/Yalan.jpg",
          artistName: "Aleyna Tilki",
          songName: "Yalan",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/yalan.mp3",
