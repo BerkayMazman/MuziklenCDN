@@ -32,6 +32,20 @@ window.addEventListener("load", event => {
          songName: "Beatcoin",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
          color: "#011627"
+      },
+{
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/nebakiyondayidayi.jpg",
+         artistName: "Keişan & Anıl Piyancı",
+         songName: "Ne Bakıyon Dayı Dayı",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/nebakiyondayidayi.mp3",
+         color: "#011627"
+      },
+{
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/yalan.jpg",
+         artistName: "Aleyna Tilki",
+         songName: "Yalan",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/yalan.mp3",
+         color: "#011627"
       }
    ];
 
