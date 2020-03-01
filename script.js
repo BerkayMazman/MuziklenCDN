@@ -27,32 +27,34 @@ window.addEventListener("load", event => {
          color: "#011627"
       },
       {
-         img: "https://www.berkaymazman.com.tr/Muziklen/beatcoin.jpg",
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/beatcoin.jpg",
          artistName: "Ceza",
          songName: "Beatcoin",
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/beatcoin.mp3",
          color: "#011627"
-      }
-   ];
+      },
+      {
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/benjamins3.jpg",
+         artistName: "Rozz Kalliope & Ece Seçkin",
+         songName: "Benjamins 3",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/benjamins3.mp3",
+         color: "#011627"
+      },
+      {
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/nebakiyondayidayi.jpg",
+         artistName: "Keişan & Anıl Piyancı",
+         songName: "Ne Bakıyon Dayı Dayı",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/nebakiyondayidayi.mp3",
+         color: "#011627"
+      },  
+
+         ];
 
    // Music Groups
    const groups = [
       {
-         title: "Tüm Şarkılar",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img06.jpg"
-      },
-      {
-         title: "Sanatçılar",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img07.jpg"
-      },
-      {
-         title: "Oynatma Listeleri",
-         img:
-         "https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
-      },
-      {
-         title: "Favoriler",
-         img: "https://www.rafaelalucas.com/dailyui/9/covers/img10.jpg"
+         title: "Rap",
+         img: "https://www.berkaymazman.com.tr/Muziklen/playlist-images/rap.png"
       }
    ];
 
