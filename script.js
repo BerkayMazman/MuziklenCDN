@@ -129,8 +129,125 @@ window.addEventListener("load", event => {
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/kaktus.mp3",
          color: "#011627"
 
-      } 
-   ];
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/321.jpg",
+         artistName: "Ben Fero",
+         songName: "3, 2, 1",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/321.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/cennet.jpg",
+         artistName: "Ebru Gündeş",
+         songName: "Cennet",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/cennet.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/kaktus.jpg",
+         artistName: "Norm Ender",
+         songName: "Deli",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/deli.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/farkimizvar.jpg",
+         artistName: "Hadise",
+         songName: "Farkımız Var",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/farkimizvar.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/fightkulup.jpg",
+         artistName: "Killa Hakan",
+         songName: "Fight Kulüp",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/fightkulup.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/gecegibigonlun.jpg",
+         artistName: "Irmak Arıcı",
+         songName: "Gece Gibi Gönlün",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/irmakarici.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/insansevmezmi.jpg",
+         artistName: "Soner Sarıkabadayı",
+         songName: "İnsan Sevmez Mi?",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/insansevmezmi.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/mor.jpg",
+         artistName: "Hande Yener",
+         songName: "Mor",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/mor.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/neyimvarki.jpg",
+         artistName: "Ceza & Sagopa Kajmer",
+         songName: "Neyim Var Ki?",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/neyimvarki.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/neyse.jpg",
+         artistName: "Sagopa Kajmer",
+         songName: "Neyse",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/neyse.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/neyse.jpg",
+         artistName: "Sagopa Kajmer",
+         songName: "Toz Taneleri",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/toztaneleri.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/yokyok.jpg",
+         artistName: "Feride Hilal Akın",
+         songName: "Yok Yok",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/yokyok.mp3",
+         color: "#011627"
+
+      },   
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/aya.jpg",
+         artistName: "Murda & Ezhel",
+         songName: "Aya",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/aya.mp3",
+         color: "#011627"
+
+      }                
+      ];
 
    // Music Groups
    const groups = [
