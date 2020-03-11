@@ -246,7 +246,133 @@ window.addEventListener("load", event => {
          song: "https://www.berkaymazman.com.tr/Muziklen/songs/aya.mp3",
          color: "#011627"
 
-      }                
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/olumeinat.jpg",
+         artistName: "Hidra",
+         songName: "Ölüme İnat",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/olumeinat.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/hicsevmedimseni.jpg",
+         artistName: "Hayki",
+         songName: "Hiç Sevmedim Seni",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/hicsevmedimseni.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/ahzaman.jpg",
+         artistName: "Derya Uluğ",
+         songName: "Ah Zaman",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/ahzaman.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/dudu.jpg",
+         artistName: "Tarkan",
+         songName: "Dudu",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/dudu.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/cantresist.jpg",
+         artistName: "Halogen",
+         songName: "Can't Resist",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/cantresist.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/ugotthat.jpg",
+         artistName: "Halogen",
+         songName: "U Got That",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/ugotthat.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/herebefore.jpg",
+         artistName: "Halogen",
+         songName: "Here Before",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/herebefore.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/secrets.jpg",
+         artistName: "Tiësto",
+         songName: "Secrets (Radio Edit)",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/secrets.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/carryyouhome.jpg",
+         artistName: "Tiësto",
+         songName: "Carry You Home",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/carryyouhome.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/infected.jpg",
+         artistName: "Tiësto",
+         songName: "Infected",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/infected.mp3",
+         color: "#011627"
+
+      },
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/smash.jpg",
+         artistName: "NebeZAO",
+         songName: "Smash",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/smash.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/bangarang.jpg",
+         artistName: "Skrillex",
+         songName: "Bangarang",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/bangarang.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/monster.jpg",
+         artistName: "LUM!X",
+         songName: "Monster",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/monster.mp3",
+         color: "#011627"
+
+      }, 
+      {
+
+         img: "https://www.berkaymazman.com.tr/Muziklen/song-images/hebecoma.jpg",
+         artistName: "Виктор Вайлс",
+         songName: "Невесома",
+         song: "https://www.berkaymazman.com.tr/Muziklen/songs/hebecoma.mp3",
+         color: "#011627"
+
+      }                        
       ];
 
 
